@@ -1,0 +1,9 @@
+body{
+    background:linear-gradient(220deg,lightpink,lightgreen,lightblue,rgb(243, 149, 62)) ;
+}
+span{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 30%;
+}
